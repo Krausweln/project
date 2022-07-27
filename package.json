@@ -1,0 +1,12 @@
+{
+  "name": "bismillah",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx tailwindcss -i ./src/src.css -o ./public/tailwind.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
